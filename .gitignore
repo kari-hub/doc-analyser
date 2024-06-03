@@ -1,0 +1,7 @@
+.env
+rag-doc-analysis
+__pycache__/app.cpython-312.pyc
+.files
+rag-venv
+env
+example.env
